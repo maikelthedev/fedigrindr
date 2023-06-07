@@ -17,6 +17,8 @@ I'm compiling random ideas so far using the tag #fedigrindr in my [fediverse acc
 
 I don't want to just design **this** project, but to create a template of how I design any project that requires multiple disciplines. 
 
+From time to time I might back to those toots and organise those thoughts here in this README file or whatever I use to gather all the user stories or random ideas of the project. TBF I think I'm too into brainstorming right now as to write any user stories. 
+
 # What do I want to design?
 
 Everything. Backend, cloud, frontend, android/ios app. I've done it before with Survation's Panel. 
