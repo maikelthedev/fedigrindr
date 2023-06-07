@@ -19,6 +19,8 @@ I don't want to just design **this** project, but to create a template of how I 
 
 From time to time I might back to those toots and organise those thoughts here in this README file or whatever I use to gather all the user stories or random ideas of the project. TBF I think I'm too into brainstorming right now as to write any user stories. 
 
+I'm a visual person, my ideas get shape easier when I can see what I have in mind as a prototype. So I've gone to find a wireframing tool and [decided](https://blahaj.zone/notes/9fpttn1rzc) on this [Mockup](https://app.moqups.com/) tool. 
+
 # What do I want to design?
 
 Everything. Backend, cloud, frontend, android/ios app. I've done it before with Survation's Panel. 
