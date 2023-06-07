@@ -9,6 +9,8 @@ I hate Grindr with a burning passion and I think our social lives shouldn't be o
 
 Right now just dumping random thoughts on this while trying to get a requirements document somewhere that coudl allow me to organise my thoughts on something I could convert into Agile user stories. 
 
+I'm compiling random ideas so far using the tag #fedigrindr in my [fediverse account](https://blahaj.zone/tags/fedigrindr) (publically accesible toots) in Blahaj.zone
+
 # What do I want to design?
 
 Everything. Backend, cloud, frontend, android/ios app. I've done it before with Survation's Panel. 
@@ -18,3 +20,7 @@ How do I want to design it:
 2. The first iteration or proof-of-concept (PoC) needs to be TypeScript. 
 3. Front-end needs to be platform agnostic, hence why I'm thinking in either ReactNative or NativeScript with Angular (I know both). 
 4. Backend choice of DB for a proof-of-concept is sufficient with SQLite...for now. I'm a Mongo lover though. NoSQL gives me flexibility I can't find in SQL-based ones. I might go even simpler and use REDIS for the PoC.
+
+# Credits
+
+Initial idea came from [this](https://calckey.social/notes/9fmjo1uvorj015av) toot by Fedo and the conversation that followed it. 
