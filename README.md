@@ -11,6 +11,8 @@ Right now just dumping random thoughts on this while trying to get a requirement
 
 I'm compiling random ideas so far using the tag #fedigrindr in my [fediverse account](https://blahaj.zone/tags/fedigrindr) (publically accesible toots) in Blahaj.zone
 
+I don't want to just design **this** project, but to create a template of how I design any project that requires multiple disciplines. 
+
 # What do I want to design?
 
 Everything. Backend, cloud, frontend, android/ios app. I've done it before with Survation's Panel. 
