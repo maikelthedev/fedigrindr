@@ -27,6 +27,14 @@ How do I want to design it:
 3. Front-end needs to be platform agnostic, hence why I'm thinking in either ReactNative or NativeScript with Angular (I know both). 
 4. Backend choice of DB for a proof-of-concept is sufficient with SQLite...for now. I'm a Mongo lover though. NoSQL gives me flexibility I can't find in SQL-based ones. I might go even simpler and use REDIS for the PoC.
 
+# Stuff I actively want to avoid. 
+
+1. Centralisation. 
+2. Ads & bots. 
+4. Lack of moderation. 
+5. Lack of encryption. 
+6. A community based on who has the biggest biceps. It shouldn't be pic oriented. Even if there's a grid where people are organised by relative closeness, it should discourage headless torsos. 
+
 # Credits
 
 Initial idea came from [this](https://calckey.social/notes/9fmjo1uvorj015av) toot by Fedo and the conversation that followed it. 
