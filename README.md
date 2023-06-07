@@ -5,5 +5,16 @@ A project to create a location-based federated social app to actively destroy Gr
 
 I hate Grindr with a burning passion and I think our social lives shouldn't be on the hands of a private company. There needs to be a federated, owned by no one, open-source, ad-free SPACE for us to meet other LOCAL people. 
 
+# Where am I on this idea?
 
+Right now just dumping random thoughts on this while trying to get a requirements document somewhere that coudl allow me to organise my thoughts on something I could convert into Agile user stories. 
 
+# What do I want to design?
+
+Everything. Backend, cloud, frontend, android/ios app. I've done it before with Survation's Panel. 
+
+How do I want to design it:
+1. I want to use Rust for the server but I first want to create a prototype in either Python or TypeScript. My two main languages. The reason to choose Rust is because I want to learn it and learn it well with a real world example. Also I want the server/instances to be able to run in PCs with VERY little power. If this is a federated Grindr, we need to think how could it run in places where being LGBTQI+ is an issue or there are state-run firewalls to block actual Grindr. Federation solves that only as far as a user can plug to an undetected server (TOR integration even?)
+2. The first iteration or proof-of-concept (PoC) needs to be TypeScript. 
+3. Front-end needs to be platform agnostic, hence why I'm thinking in either ReactNative or NativeScript with Angular (I know both). 
+4. Backend choice of DB for a proof-of-concept is sufficient with SQLite...for now. I'm a Mongo lover though. NoSQL gives me flexibility I can't find in SQL-based ones. I might go even simpler and use REDIS for the PoC.
