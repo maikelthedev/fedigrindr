@@ -1,7 +1,9 @@
-# Fedigrindr
+# Fedigrindr 
 
 This is how I would summarise what this project is about:
 > A project to create a location-based federated social app **to actively destroy Grindr monopoly** over the LGBTQI+ community
+
+The name is not final. Fedigrindr is right now a clear placeholder that shows what it is attempting to be. 
 
 # Introduction
 
