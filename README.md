@@ -11,6 +11,8 @@ I hate Grindr with a burning passion and I think our social lives shouldn't be o
 
 # Where am I on this idea?
 
+UPDATE 14th of August 2023 and tldr: I'm learning Elixir, I'm focused on the backend and how things would operate between servers and users. One of the many things I hate from grindr is how it, by design, loses messages. 
+
 Right now just dumping random thoughts on this while trying to get a requirements document somewhere that coudl allow me to organise my thoughts on something I could convert into Agile user stories. 
 
 I'm compiling random ideas so far using the tag #fedigrindr in my [fediverse account](https://blahaj.zone/tags/fedigrindr) (publically accesible toots) in Blahaj.zone
