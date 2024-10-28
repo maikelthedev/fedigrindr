@@ -1,7 +1,7 @@
 defmodule ExperimentWeb.HomeLive do
   use ExperimentWeb, :live_view
 
-  alias Experiment.Message
+  #alias Experiment.Message
   use Gettext, backend: ExperimentWeb.Gettext
 
   @impl true

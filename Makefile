@@ -42,7 +42,7 @@ run:
 	@echo "==> Running the server with loaded environment variables"
 	@if [ -f $(ENV_FILE) ]; then \
 	  export $$(cat $(ENV_FILE) | xargs) && \
-	  PHX_HOST=$(PHX_HOST) PORT=$(PORT) $(RELEASE_DIR)/bin/server start; \
+	  PHX_HOST=$(PHX_HOST) PORT=$(PORT) _build/prod/rel/experiment/bin/server start; \
 	else \
 	  echo "No .env file found! Please run 'make setup' first."; \
 	fi
