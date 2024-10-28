@@ -1,0 +1,108 @@
+## "msgid"s in this file come from POT (.pot) files.
+###
+### Do not add, change, or remove "msgid"s manually here as
+### they're tied to the ones in the corresponding POT file
+### (with the same domain).
+###
+### Use "mix gettext.extract --merge" or "mix gettext.merge"
+### to merge POT files into PO files.
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: lib/experiment_web/components/core_components.ex:482
+#, elixir-autogen, elixir-format
+msgid "Actions"
+msgstr ""
+
+#: lib/experiment_web/components/core_components.ex:160
+#, elixir-autogen, elixir-format
+msgid "Attempting to reconnect"
+msgstr ""
+
+#: lib/experiment_web/components/core_components.ex:151
+#, elixir-autogen, elixir-format
+msgid "Error!"
+msgstr ""
+
+#: lib/experiment_web/components/core_components.ex:172
+#, elixir-autogen, elixir-format
+msgid "Hang in there while we get back on track"
+msgstr ""
+
+#: lib/experiment_web/components/core_components.ex:167
+#, elixir-autogen, elixir-format
+msgid "Something went wrong!"
+msgstr ""
+
+#: lib/experiment_web/components/core_components.ex:150
+#, elixir-autogen, elixir-format
+msgid "Success!"
+msgstr ""
+
+#: lib/experiment_web/components/core_components.ex:155
+#, elixir-autogen, elixir-format
+msgid "We can't find the internet"
+msgstr ""
+
+#: lib/experiment_web/controllers/page_html.ex:19
+#, elixir-autogen, elixir-format
+msgid "Why Hire Me?"
+msgstr "¿Por qué contratarme?"
+
+#: lib/experiment_web/components/core_components.ex:76
+#: lib/experiment_web/components/core_components.ex:130
+#, elixir-autogen, elixir-format
+msgid "close"
+msgstr "cerrar"
+
+#: lib/experiment_web/controllers/page_html/home.html.heex:4
+#, elixir-autogen, elixir-format, fuzzy
+msgid "Hire Me"
+msgstr "Contratame!"
+
+#: lib/experiment_web/controllers/page_html/home.html.heex:7
+#, elixir-autogen, elixir-format
+msgid "Why?"
+msgstr "¿Por qué?"
+
+#: lib/experiment_web/live/message_live.ex:11
+#, elixir-autogen, elixir-format
+msgid "Contact Me"
+msgstr "Contactame"
+
+#: lib/experiment_web/live/message_live.ex:22
+#, elixir-autogen, elixir-format
+msgid "Message: "
+msgstr "Mensaje: "
+
+#: lib/experiment_web/live/message_live.ex:52
+#, elixir-autogen, elixir-format
+msgid "Send Message"
+msgstr "Enviar Mensaje"
+
+#: lib/experiment_web/controllers/page_html.ex:63
+#, elixir-autogen, elixir-format
+msgid "Send me a message now"
+msgstr "Enviame un mensaje ahora"
+
+#: lib/experiment_web/live/message_live.ex:14
+#, elixir-autogen, elixir-format
+msgid "This will send an instant message to my smartwatch using NTFY from this LiveView,\n    and I will respond back to you ASAP."
+msgstr "Esto enviará un mensaje instantáneo a mi reloj inteligente usando NTFY desde esta LiveView I you responderé tan pronto como sea posible"
+
+#: lib/experiment_web/live/message_live.ex:35
+#, elixir-autogen, elixir-format
+msgid "Who to Reply:"
+msgstr "Como te encuentro:"
+
+#: lib/experiment_web/live/message_live.ex:43
+#, elixir-autogen, elixir-format
+msgid "Your contact details: email, WhatsApp, Telegram, Signal, how to find you."
+msgstr "Tus detalles de contacto: email, whatsapp, telegram, signal."
+
+#: lib/experiment_web/live/message_live.ex:58
+#, elixir-autogen, elixir-format
+msgid "Your message has been sent."
+msgstr "Tu mensaje se ha enviado con éxito"

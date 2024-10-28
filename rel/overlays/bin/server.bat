@@ -1,2 +1,2 @@
 set PHX_SERVER=true
-call "%~dp0\fedigrindr" start
+call "%~dp0\experiment" start

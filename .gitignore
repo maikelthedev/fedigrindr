@@ -23,7 +23,7 @@ erl_crash.dump
 /tmp/
 
 # Ignore package tarball (built via "mix hex.build").
-fedigrindr-*.tar
+experiment-*.tar
 
 # Ignore assets that are produced by build tools.
 /priv/static/assets/
@@ -35,7 +35,4 @@ fedigrindr-*.tar
 npm-debug.log
 /assets/node_modules/
 
-# Database files
-*.db
-*.db-*
-
+.env

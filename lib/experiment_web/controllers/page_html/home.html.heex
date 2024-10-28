@@ -1,0 +1,10 @@
+<.flash_group flash={@flash} />
+<div class="flex flex-col justify-center items-center h-screen">
+  <.link navigate={~p"/why"}><h1 class="text-[7vw] md:max-w-[50vw] w-full text-center">
+          <%= gettext("Hire Me") %>
+  </h1></.link>
+   <.link navigate={~p"/why"}><p class=" hover:text-red-600 no-underline w-full italic text-center text-[3vw] mb-2">
+             <%= gettext("Why?") %>
+</p></.link>
+      <.contact_paragraph {assigns} />
+</div>

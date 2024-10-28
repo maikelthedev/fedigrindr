@@ -1,1 +1,1 @@
-call "%~dp0\fedigrindr" eval Fedigrindr.Release.migrate
+call "%~dp0\experiment" eval Experiment.Release.migrate

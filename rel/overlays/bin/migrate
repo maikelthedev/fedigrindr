@@ -1,3 +1,5 @@
 #!/bin/sh
+set -eu
+
 cd -P -- "$(dirname -- "$0")"
-exec ./fedigrindr eval Fedigrindr.Release.migrate
+exec ./experiment eval Experiment.Release.migrate
