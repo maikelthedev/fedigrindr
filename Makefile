@@ -6,7 +6,7 @@ SERVER_USER=ubuntu
 SECRET_KEY_BASE=$(shell mix phx.gen.secret)
 ENV_FILE=.env
 RELEASE_DIR=$(BUILD_DIR)/$(MIX_ENV)/rel/$(APP_NAME)
-PHX_HOST="fedigrindr.maikeladas.es"
+PHX_HOST="localhost"
 PORT=4002
 
 .PHONY: all secret setup build release clean run deploy
